@@ -1,0 +1,782 @@
+{
+    "DZ": {
+        "country_name": "Algeria", 
+        "country_code": "DZ", 
+        "storefront_id": 143563, 
+        "language_code": "ar"
+    }, 
+    "AO": {
+        "country_name": "Angola", 
+        "country_code": "AO", 
+        "storefront_id": 143564, 
+        "language_code": "pt"
+    }, 
+    "AI": {
+        "country_name": "Anguilla", 
+        "country_code": "AI", 
+        "storefront_id": 143538, 
+        "language_code": "en"
+    }, 
+    "AG": {
+        "country_name": "Antigua & Barbuda", 
+        "country_code": "AG", 
+        "storefront_id": 143540, 
+        "language_code": "en"
+    }, 
+    "AR": {
+        "country_name": "Argentina", 
+        "country_code": "AR", 
+        "storefront_id": 143505, 
+        "language_code": "es"
+    }, 
+    "AM": {
+        "country_name": "Armenia", 
+        "country_code": "AM", 
+        "storefront_id": 143524, 
+        "language_code": "hy"
+    }, 
+    "AU": {
+        "country_name": "Australia", 
+        "country_code": "AU", 
+        "storefront_id": 143460, 
+        "language_code": "en-AU"
+    }, 
+    "AT": {
+        "country_name": "Austria", 
+        "country_code": "AT", 
+        "storefront_id": 143445, 
+        "language_code": "de"
+    }, 
+    "AZ": {
+        "country_name": "Azerbaijan", 
+        "country_code": "AZ", 
+        "storefront_id": 143568, 
+        "language_code": "az"
+    }, 
+    "BH": {
+        "country_name": "Bahrain", 
+        "country_code": "BH", 
+        "storefront_id": 143559, 
+        "language_code": "ar"
+    }, 
+    "BD": {
+        "country_name": "Bangladesh", 
+        "country_code": "BD", 
+        "storefront_id": 143490, 
+        "language_code": "bn"
+    }, 
+    "BB": {
+        "country_name": "Barbados", 
+        "country_code": "BB", 
+        "storefront_id": 143541, 
+        "language_code": "en"
+    }, 
+    "BY": {
+        "country_name": "Belarus", 
+        "country_code": "BY", 
+        "storefront_id": 143565, 
+        "language_code": "be, ru"
+    }, 
+    "BE": {
+        "country_name": "Belgium", 
+        "country_code": "BE", 
+        "storefront_id": 143446, 
+        "language_code": "nl, fr, de"
+    }, 
+    "BZ": {
+        "country_name": "Belize", 
+        "country_code": "BZ", 
+        "storefront_id": 143555, 
+        "language_code": "en"
+    }, 
+    "BM": {
+        "country_name": "Bermuda", 
+        "country_code": "BM", 
+        "storefront_id": 143542, 
+        "language_code": "en"
+    }, 
+    "BO": {
+        "country_name": "Bolivia", 
+        "country_code": "BO", 
+        "storefront_id": 143556, 
+        "language_code": "es, qu, gn, ay"
+    }, 
+    "BW": {
+        "country_name": "Botswana", 
+        "country_code": "BW", 
+        "storefront_id": 143525, 
+        "language_code": "en, tn"
+    }, 
+    "BR": {
+        "country_name": "Brazil", 
+        "country_code": "BR", 
+        "storefront_id": 143503, 
+        "language_code": "pt-BR"
+    }, 
+    "VG": {
+        "country_name": "British Virgin Islands", 
+        "country_code": "VG", 
+        "storefront_id": 143543, 
+        "language_code": "en"
+    }, 
+    "BN": {
+        "country_name": "Brunei", 
+        "country_code": "BN", 
+        "storefront_id": 143560, 
+        "language_code": "ms"
+    }, 
+    "BG": {
+        "country_name": "Bulgaria", 
+        "country_code": "BG", 
+        "storefront_id": 143526, 
+        "language_code": "bg"
+    }, 
+    "CA": {
+        "country_name": "Canada", 
+        "country_code": "CA", 
+        "storefront_id": 143455, 
+        "language_code": "en-CA"
+    }, 
+    "KY": {
+        "country_name": "Cayman Islands", 
+        "country_code": "KY", 
+        "storefront_id": 143544, 
+        "language_code": "en"
+    }, 
+    "CL": {
+        "country_name": "Chile", 
+        "country_code": "CL", 
+        "storefront_id": 143483, 
+        "language_code": "es"
+    }, 
+    "CN": {
+        "country_name": "China", 
+        "country_code": "CN", 
+        "storefront_id": 143465, 
+        "language_code": "zh-hans"
+    }, 
+    "CO": {
+        "country_name": "Colombia", 
+        "country_code": "CO", 
+        "storefront_id": 143501, 
+        "language_code": "es"
+    }, 
+    "CR": {
+        "country_name": "Costa Rica", 
+        "country_code": "CR", 
+        "storefront_id": 143495, 
+        "language_code": "es"
+    }, 
+    "CI": {
+        "country_name": "Cote D’Ivoire", 
+        "country_code": "CI", 
+        "storefront_id": 143527, 
+        "language_code": "fr"
+    }, 
+    "HR": {
+        "country_name": "Croatia", 
+        "country_code": "HR", 
+        "storefront_id": 143494, 
+        "language_code": "hr"
+    }, 
+    "CY": {
+        "country_name": "Cyprus", 
+        "country_code": "CY", 
+        "storefront_id": 143557, 
+        "language_code": "el, tr"
+    }, 
+    "CZ": {
+        "country_name": "Czech Republic", 
+        "country_code": "CZ", 
+        "storefront_id": 143489, 
+        "language_code": "cs"
+    }, 
+    "DK": {
+        "country_name": "Denmark", 
+        "country_code": "DK", 
+        "storefront_id": 143458, 
+        "language_code": "da"
+    }, 
+    "DM": {
+        "country_name": "Dominica", 
+        "country_code": "DM", 
+        "storefront_id": 143545, 
+        "language_code": "en"
+    }, 
+    "DO": {
+        "country_name": "Dominican Rep.", 
+        "country_code": "DO", 
+        "storefront_id": 143508, 
+        "language_code": "es"
+    }, 
+    "EC": {
+        "country_name": "Ecuador", 
+        "country_code": "EC", 
+        "storefront_id": 143509, 
+        "language_code": "es"
+    }, 
+    "EG": {
+        "country_name": "Egypt", 
+        "country_code": "EG", 
+        "storefront_id": 143516, 
+        "language_code": "ar"
+    }, 
+    "SV": {
+        "country_name": "El Salvador", 
+        "country_code": "SV", 
+        "storefront_id": 143506, 
+        "language_code": "es"
+    }, 
+    "EE": {
+        "country_name": "Estonia", 
+        "country_code": "EE", 
+        "storefront_id": 143518, 
+        "language_code": "et"
+    }, 
+    "FI": {
+        "country_name": "Finland", 
+        "country_code": "FI", 
+        "storefront_id": 143447, 
+        "language_code": "fi, sv, se"
+    }, 
+    "FR": {
+        "country_name": "France", 
+        "country_code": "FR", 
+        "storefront_id": 143442, 
+        "language_code": "fr"
+    }, 
+    "DE": {
+        "country_name": "Germany", 
+        "country_code": "DE", 
+        "storefront_id": 143443, 
+        "language_code": "de"
+    }, 
+    "GH": {
+        "country_name": "Ghana", 
+        "country_code": "GH", 
+        "storefront_id": 143573, 
+        "language_code": "en"
+    }, 
+    "GR": {
+        "country_name": "Greece", 
+        "country_code": "GR", 
+        "storefront_id": 143448, 
+        "language_code": "el"
+    }, 
+    "GD": {
+        "country_name": "Grenada", 
+        "country_code": "GD", 
+        "storefront_id": 143546, 
+        "language_code": "en"
+    }, 
+    "GT": {
+        "country_name": "Guatemala", 
+        "country_code": "GT", 
+        "storefront_id": 143504, 
+        "language_code": "es"
+    }, 
+    "GY": {
+        "country_name": "Guyana", 
+        "country_code": "GY", 
+        "storefront_id": 143553, 
+        "language_code": "en"
+    }, 
+    "HN": {
+        "country_name": "Honduras", 
+        "country_code": "HN", 
+        "storefront_id": 143510, 
+        "language_code": "es"
+    }, 
+    "HK": {
+        "country_name": "Hong Kong", 
+        "country_code": "HK", 
+        "storefront_id": 143463, 
+        "language_code": "zh-hant"
+    }, 
+    "HU": {
+        "country_name": "Hungary", 
+        "country_code": "HU", 
+        "storefront_id": 143482, 
+        "language_code": "hu"
+    }, 
+    "IS": {
+        "country_name": "Iceland", 
+        "country_code": "IS", 
+        "storefront_id": 143558, 
+        "language_code": "is"
+    }, 
+    "IN": {
+        "country_name": "India", 
+        "country_code": "IN", 
+        "storefront_id": 143467, 
+        "language_code": "en-IN"
+    }, 
+    "ID": {
+        "country_name": "Indonesia", 
+        "country_code": "ID", 
+        "storefront_id": 143476, 
+        "language_code": "id"
+    }, 
+    "IE": {
+        "country_name": "Ireland", 
+        "country_code": "IE", 
+        "storefront_id": 143449, 
+        "language_code": "en, ga"
+    }, 
+    "IL": {
+        "country_name": "Israel", 
+        "country_code": "IL", 
+        "storefront_id": 143491, 
+        "language_code": "he"
+    }, 
+    "IT": {
+        "country_name": "Italy", 
+        "country_code": "IT", 
+        "storefront_id": 143450, 
+        "language_code": "it, de, fr"
+    }, 
+    "JM": {
+        "country_name": "Jamaica", 
+        "country_code": "JM", 
+        "storefront_id": 143511, 
+        "language_code": "en"
+    }, 
+    "JP": {
+        "country_name": "Japan", 
+        "country_code": "JP", 
+        "storefront_id": 143462, 
+        "language_code": "ja"
+    }, 
+    "JO": {
+        "country_name": "Jordan", 
+        "country_code": "JO", 
+        "storefront_id": 143528, 
+        "language_code": "ar"
+    }, 
+    "KZ": {
+        "country_name": "Kazakstan", 
+        "country_code": "KZ", 
+        "storefront_id": 143517, 
+        "language_code": "kk, ru"
+    }, 
+    "KE": {
+        "country_name": "Kenya", 
+        "country_code": "KE", 
+        "storefront_id": 143529, 
+        "language_code": "sw, en"
+    }, 
+    "KR": {
+        "country_name": "Korea, Republic Of", 
+        "country_code": "KR", 
+        "storefront_id": 143466, 
+        "language_code": "ko, en"
+    }, 
+    "KW": {
+        "country_name": "Kuwait", 
+        "country_code": "KW", 
+        "storefront_id": 143493, 
+        "language_code": "ar"
+    }, 
+    "LV": {
+        "country_name": "Latvia", 
+        "country_code": "LV", 
+        "storefront_id": 143519, 
+        "language_code": "lv"
+    }, 
+    "LB": {
+        "country_name": "Lebanon", 
+        "country_code": "LB", 
+        "storefront_id": 143497, 
+        "language_code": "ar, fr"
+    }, 
+    "LI": {
+        "country_name": "Liechtenstein", 
+        "country_code": "LI", 
+        "storefront_id": 143522, 
+        "language_code": "de"
+    }, 
+    "LT": {
+        "country_name": "Lithuania", 
+        "country_code": "LT", 
+        "storefront_id": 143520, 
+        "language_code": "lt"
+    }, 
+    "LU": {
+        "country_name": "Luxembourg", 
+        "country_code": "LU", 
+        "storefront_id": 143451, 
+        "language_code": "lb, fr, de"
+    }, 
+    "MO": {
+        "country_name": "Macau", 
+        "country_code": "MO", 
+        "storefront_id": 143515, 
+        "language_code": "zh-hant, pt"
+    }, 
+    "MK": {
+        "country_name": "Macedonia", 
+        "country_code": "MK", 
+        "storefront_id": 143530, 
+        "language_code": "mk"
+    }, 
+    "MG": {
+        "country_name": "Madagascar", 
+        "country_code": "MG", 
+        "storefront_id": 143531, 
+        "language_code": "mg, fr"
+    }, 
+    "MY": {
+        "country_name": "Malaysia", 
+        "country_code": "MY", 
+        "storefront_id": 143473, 
+        "language_code": "ms"
+    }, 
+    "MV": {
+        "country_name": "Maldives", 
+        "country_code": "MV", 
+        "storefront_id": 143488, 
+        "language_code": "dv"
+    }, 
+    "ML": {
+        "country_name": "Mali", 
+        "country_code": "ML", 
+        "storefront_id": 143532, 
+        "language_code": "fr"
+    }, 
+    "MT": {
+        "country_name": "Malta", 
+        "country_code": "MT", 
+        "storefront_id": 143521, 
+        "language_code": "mt, en"
+    }, 
+    "MU": {
+        "country_name": "Mauritius", 
+        "country_code": "MU", 
+        "storefront_id": 143533, 
+        "language_code": "mfe, fr, en"
+    }, 
+    "MX": {
+        "country_name": "Mexico", 
+        "country_code": "MX", 
+        "storefront_id": 143468, 
+        "language_code": "es-MX"
+    }, 
+    "MD": {
+        "country_name": "Moldova, Republic Of", 
+        "country_code": "MD", 
+        "storefront_id": 143523, 
+        "language_code": "ro, ru, uk"
+    }, 
+    "MS": {
+        "country_name": "Montserrat", 
+        "country_code": "MS", 
+        "storefront_id": 143547, 
+        "language_code": "en"
+    }, 
+    "NP": {
+        "country_name": "Nepal", 
+        "country_code": "NP", 
+        "storefront_id": 143484, 
+        "language_code": "ne"
+    }, 
+    "NL": {
+        "country_name": "Netherlands", 
+        "country_code": "NL", 
+        "storefront_id": 143452, 
+        "language_code": "nl"
+    }, 
+    "NZ": {
+        "country_name": "New Zealand", 
+        "country_code": "NZ", 
+        "storefront_id": 143461, 
+        "language_code": "mi, en"
+    }, 
+    "NI": {
+        "country_name": "Nicaragua", 
+        "country_code": "NI", 
+        "storefront_id": 143512, 
+        "language_code": "es"
+    }, 
+    "NE": {
+        "country_name": "Niger", 
+        "country_code": "NE", 
+        "storefront_id": 143534, 
+        "language_code": "fr"
+    }, 
+    "NG": {
+        "country_name": "Nigeria", 
+        "country_code": "NG", 
+        "storefront_id": 143561, 
+        "language_code": "en"
+    }, 
+    "NO": {
+        "country_name": "Norway", 
+        "country_code": "NO", 
+        "storefront_id": 143457, 
+        "language_code": "nb, nn, no, se"
+    }, 
+    "OM": {
+        "country_name": "Oman", 
+        "country_code": "OM", 
+        "storefront_id": 143562, 
+        "language_code": "ar"
+    }, 
+    "PK": {
+        "country_name": "Pakistan", 
+        "country_code": "PK", 
+        "storefront_id": 143477, 
+        "language_code": "en, ur"
+    }, 
+    "PA": {
+        "country_name": "Panama", 
+        "country_code": "PA", 
+        "storefront_id": 143485, 
+        "language_code": "es"
+    }, 
+    "PY": {
+        "country_name": "Paraguay", 
+        "country_code": "PY", 
+        "storefront_id": 143513, 
+        "language_code": "es, gn"
+    }, 
+    "PE": {
+        "country_name": "Peru", 
+        "country_code": "PE", 
+        "storefront_id": 143507, 
+        "language_code": "es"
+    }, 
+    "PH": {
+        "country_name": "Philippines", 
+        "country_code": "PH", 
+        "storefront_id": 143474, 
+        "language_code": "en, tl"
+    }, 
+    "PL": {
+        "country_name": "Poland", 
+        "country_code": "PL", 
+        "storefront_id": 143478, 
+        "language_code": "pl"
+    }, 
+    "PT": {
+        "country_name": "Portugal", 
+        "country_code": "PT", 
+        "storefront_id": 143453, 
+        "language_code": "pt"
+    }, 
+    "QA": {
+        "country_name": "Qatar", 
+        "country_code": "QA", 
+        "storefront_id": 143498, 
+        "language_code": "ar"
+    }, 
+    "RO": {
+        "country_name": "Romania", 
+        "country_code": "RO", 
+        "storefront_id": 143487, 
+        "language_code": "ro"
+    }, 
+    "RU": {
+        "country_name": "Russia", 
+        "country_code": "RU", 
+        "storefront_id": 143469, 
+        "language_code": "ru"
+    }, 
+    "SA": {
+        "country_name": "Saudi Arabia", 
+        "country_code": "SA", 
+        "storefront_id": 143479, 
+        "language_code": "ar"
+    }, 
+    "SN": {
+        "country_name": "Senegal", 
+        "country_code": "SN", 
+        "storefront_id": 143535, 
+        "language_code": "ar"
+    }, 
+    "RS": {
+        "country_name": "Serbia", 
+        "country_code": "RS", 
+        "storefront_id": 143500, 
+        "language_code": "sr, sr-Latn"
+    }, 
+    "SG": {
+        "country_name": "Singapore", 
+        "country_code": "SG", 
+        "storefront_id": 143464, 
+        "language_code": "zh-hans, en, ms, ta"
+    }, 
+    "SK": {
+        "country_name": "Slovakia", 
+        "country_code": "SK", 
+        "storefront_id": 143496, 
+        "language_code": "sk"
+    }, 
+    "SI": {
+        "country_name": "Slovenia", 
+        "country_code": "SI", 
+        "storefront_id": 143499, 
+        "language_code": "sl"
+    }, 
+    "ZA": {
+        "country_name": "South Africa", 
+        "country_code": "ZA", 
+        "storefront_id": 143472, 
+        "language_code": "en, af, st, tn, xh, zu"
+    }, 
+    "ES": {
+        "country_name": "Spain", 
+        "country_code": "ES", 
+        "storefront_id": 143454, 
+        "language_code": "ast, ca, es, eu, gl"
+    }, 
+    "LK": {
+        "country_name": "Sri Lanka", 
+        "country_code": "LK", 
+        "storefront_id": 143486, 
+        "language_code": "si, ta"
+    }, 
+    "KN": {
+        "country_name": "St. Kitts & Nevis", 
+        "country_code": "KN", 
+        "storefront_id": 143548, 
+        "language_code": "en"
+    }, 
+    "LC": {
+        "country_name": "St. Lucia", 
+        "country_code": "LC", 
+        "storefront_id": 143549, 
+        "language_code": "en"
+    }, 
+    "VC": {
+        "country_name": "St. Vincent & The Grenadines", 
+        "country_code": "VC", 
+        "storefront_id": 143550, 
+        "language_code": "en"
+    }, 
+    "SR": {
+        "country_name": "Suriname", 
+        "country_code": "SR", 
+        "storefront_id": 143554, 
+        "language_code": "nl"
+    }, 
+    "SE": {
+        "country_name": "Sweden", 
+        "country_code": "SE", 
+        "storefront_id": 143456, 
+        "language_code": "sv"
+    }, 
+    "CH": {
+        "country_name": "Switzerland", 
+        "country_code": "CH", 
+        "storefront_id": 143459, 
+        "language_code": "de, fr, it, rm"
+    }, 
+    "TW": {
+        "country_name": "Taiwan", 
+        "country_code": "TW", 
+        "storefront_id": 143470, 
+        "language_code": "zh-hant"
+    }, 
+    "TZ": {
+        "country_name": "Tanzania", 
+        "country_code": "TZ", 
+        "storefront_id": 143572, 
+        "language_code": "sw, en"
+    }, 
+    "TH": {
+        "country_name": "Thailand", 
+        "country_code": "TH", 
+        "storefront_id": 143475, 
+        "language_code": "th"
+    }, 
+    "BS": {
+        "country_name": "The Bahamas", 
+        "country_code": "BS", 
+        "storefront_id": 143539, 
+        "language_code": "en"
+    }, 
+    "TT": {
+        "country_name": "Trinidad & Tobago", 
+        "country_code": "TT", 
+        "storefront_id": 143551, 
+        "language_code": "en"
+    }, 
+    "TN": {
+        "country_name": "Tunisia", 
+        "country_code": "TN", 
+        "storefront_id": 143536, 
+        "language_code": "ar, fr"
+    }, 
+    "TR": {
+        "country_name": "Turkey", 
+        "country_code": "TR", 
+        "storefront_id": 143480, 
+        "language_code": "tr"
+    }, 
+    "TC": {
+        "country_name": "Turks & Caicos", 
+        "country_code": "TC", 
+        "storefront_id": 143552, 
+        "language_code": "en"
+    }, 
+    "UG": {
+        "country_name": "Uganda", 
+        "country_code": "UG", 
+        "storefront_id": 143537, 
+        "language_code": "en, sw"
+    }, 
+    "GB": {
+        "country_name": "UK", 
+        "country_code": "GB", 
+        "storefront_id": 143444, 
+        "language_code": "en-GB"
+    }, 
+    "UA": {
+        "country_name": "Ukraine", 
+        "country_code": "UA", 
+        "storefront_id": 143492, 
+        "language_code": "uk"
+    }, 
+    "AE": {
+        "country_name": "United Arab Emirates", 
+        "country_code": "AE", 
+        "storefront_id": 143481, 
+        "language_code": "ar"
+    }, 
+    "UY": {
+        "country_name": "Uruguay", 
+        "country_code": "UY", 
+        "storefront_id": 143514, 
+        "language_code": "es"
+    }, 
+    "US": {
+        "country_name": "USA", 
+        "country_code": "US", 
+        "storefront_id": 143441, 
+        "language_code": "en-US"
+    }, 
+    "UZ": {
+        "country_name": "Uzbekistan", 
+        "country_code": "UZ", 
+        "storefront_id": 143566, 
+        "language_code": "uz, kaa"
+    }, 
+    "VE": {
+        "country_name": "Venezuela", 
+        "country_code": "VE", 
+        "storefront_id": 143502, 
+        "language_code": "es"
+    }, 
+    "VN": {
+        "country_name": "Vietnam", 
+        "country_code": "VN", 
+        "storefront_id": 143471, 
+        "language_code": "vi"
+    }, 
+    "YE": {
+        "country_name": "Yemen", 
+        "country_code": "YE", 
+        "storefront_id": 143571, 
+        "language_code": "ar"
+    }
+}
